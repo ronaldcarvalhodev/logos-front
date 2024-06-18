@@ -159,8 +159,26 @@ body {
   color: black;
 }
 
+#botaoofertas{
+  background-color: greenyellow;
+  border-color: none;
+}
+
+#botaoofertas:hover{
+  color:rgb(206, 224, 179); 
+}
+
+.catalogoofertas{
+  color:black;
+}
+
+.catalogoofertas:hover{
+  color:white;
+}
+
 .catalogo{
   color: black;
+  
 }
 
 .catalogo:hover{
